@@ -128,3 +128,4 @@ function checkTile(r, c) {
     }
     return minesLocation.includes(r.toString() + "-" + c.toString()) ? 1 : 0;
 }
+
