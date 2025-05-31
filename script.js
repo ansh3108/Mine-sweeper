@@ -1,4 +1,5 @@
 
+
 let board = [];
 let rows = 8;
 let columns = 8;
